@@ -1,3 +1,0 @@
-Projeto To Do List, com objetivo  de aprender Javascrip puro, HTML e CSS a fundo, e adquirindo 
-conhecimentos para trabalhar com framework posteriormente
-36:23
